@@ -1,4 +1,4 @@
-# Capstone-Project - Customer Segmentation (Marketing Campaign)
+# Capstone Project - Customer Segmentation (Marketing Campaign)
 
 This repository is a Data Science Project in Python on Marketing Analytics. The Jupyter Notebook contains exploratory data analysis on a dataset. This analysis helps us to maximize the insight into a dataset and the underlying structure of a dataset while providing all the specific items that an analyst would want to extract from a dataset. The main motto is to segregate customers into different groups so that we can identify the different groups of customers coming into the event, or the different groups of customers coming into a mall and their spending behaviors. I have also performed K-Means Clustering on the dataset using Python. 
 
